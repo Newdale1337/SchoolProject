@@ -1,0 +1,11 @@
+C:\Users\willi\source\repos\ShutAppClient\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\ShutAppClient\Client\obj\Debug\netcoreapp3.0\Client.AssemblyInfo.cs
+C:\Users\willi\source\repos\ShutAppClient\Client\bin\Debug\netcoreapp3.0\Client.exe
+C:\Users\willi\source\repos\ShutAppClient\Client\bin\Debug\netcoreapp3.0\Client.deps.json
+C:\Users\willi\source\repos\ShutAppClient\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.json
+C:\Users\willi\source\repos\ShutAppClient\Client\bin\Debug\netcoreapp3.0\Client.runtimeconfig.dev.json
+C:\Users\willi\source\repos\ShutAppClient\Client\bin\Debug\netcoreapp3.0\Client.dll
+C:\Users\willi\source\repos\ShutAppClient\Client\bin\Debug\netcoreapp3.0\Client.pdb
+C:\Users\willi\source\repos\ShutAppClient\Client\obj\Debug\netcoreapp3.0\Client.dll
+C:\Users\willi\source\repos\ShutAppClient\Client\obj\Debug\netcoreapp3.0\Client.pdb
+C:\Users\willi\source\repos\ShutAppClient\Client\obj\Debug\netcoreapp3.0\Client.csprojAssemblyReference.cache
